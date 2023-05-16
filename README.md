@@ -4,6 +4,9 @@
 
 The "Interpolation Study" is a research project that aims to assess the quality and reliability of different interpolation algorithms used in precision agriculture. The project focuses on estimating values for unknown locations based on available data from sample points. The goal is to provide concrete information on the accuracy, precision, and context dependency of different interpolation methods.
 
+Access here:
+[https://michaelcrubin.github.io/interpolation_study](https://michaelcrubin.github.io/interpolation_study)
+
 ## Code Overview
 
 The R code provided for the "Interpolation Study" project consists of several sections, each serving a specific purpose. Here is an overview of the code structure:

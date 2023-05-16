@@ -7,13 +7,13 @@ The "Interpolation Study" is a research project that aims to assess the quality 
 
 ## Documentation Access
 
-### This Project:\
-[Interpolation Study](https://michaelcrubin.github.io/documentations/interpolation_study.html){target="_blank"}\
+### This Project:
+[Interpolation Study](https://michaelcrubin.github.io/documentations/interpolation_study.html)
 
-### Other Projects:\
-[Hypothesis Testing Climate](https://michaelcrubin.github.io/documentations/hypothesis_testing_climate.html){target="_blank"}\
-[Greedy Optimization](https://michaelcrubin.github.io/documentations/greedy_optimization.html){target="_blank"}\
-[Agronomic Spraying Climate](https://michaelcrubin.github.io/documentations/spray_climate.html){target="_blank"}\
+### Other Projects:
+- [Hypothesis Testing Climate](https://michaelcrubin.github.io/documentations/hypothesis_testing_climate.html)
+- [Greedy Optimization](https://michaelcrubin.github.io/documentations/greedy_optimization.html)
+- [Agronomic Spraying Climate](https://michaelcrubin.github.io/documentations/spray_climate.html)
 
 
 ## Code Overview

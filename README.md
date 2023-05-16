@@ -4,8 +4,17 @@
 
 The "Interpolation Study" is a research project that aims to assess the quality and reliability of different interpolation algorithms used in precision agriculture. The project focuses on estimating values for unknown locations based on available data from sample points. The goal is to provide concrete information on the accuracy, precision, and context dependency of different interpolation methods.
 
-Access here:
-[https://michaelcrubin.github.io/interpolation_study](https://michaelcrubin.github.io/interpolation_study)
+
+## Documentation Access
+
+### This Project:\
+[Interpolation Study](https://michaelcrubin.github.io/documentations/interpolation_study.html){target="_blank"}\
+
+### Other Projects:\
+[Hypothesis Testing Climate](https://michaelcrubin.github.io/documentations/hypothesis_testing_climate.html){target="_blank"}\
+[Greedy Optimization](https://michaelcrubin.github.io/documentations/greedy_optimization.html){target="_blank"}\
+[Agronomic Spraying Climate](https://michaelcrubin.github.io/documentations/spray_climate.html){target="_blank"}\
+
 
 ## Code Overview
 
